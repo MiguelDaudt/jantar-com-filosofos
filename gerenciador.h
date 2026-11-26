@@ -40,7 +40,7 @@ void liberarGarfos(
     Gerenciador *gerenciador, Filosofo *filosofo
 );
 
-void destruirGegenciador(Gerenciador *gerenciador);
+void destruirGerenciador(Gerenciador *gerenciador);
 
 void solicitarGarfos(
     Gerenciador *gerenciador,
